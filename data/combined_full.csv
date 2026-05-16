@@ -1,0 +1,23 @@
+combined_full
+combined_ID,ID,text,is_fake,source,vader_neg,vader_neu,vader_pos,vader_compound,word_count,char_count,exclamation_count,question_count,all_caps_count,certainty_count,urgency_count,attack_count,second_person_count
+1,0,Says the Annies List political group supports third-trimester abortions on demand.,1,liar,0.115,0.692,0.192,0.25,11,82,0,0,0,0,0,0,0
+2,1,When did the decline of coal start? It started when natural gas took off that started to begin in (President George W.) Bushs administration.,0,liar,0.0,0.902,0.098,0.3612,24,141,0,1,1,0,0,0,0
+3,2,"Hillary Clinton agrees with John McCain ""by voting to give George Bush the benefit of the doubt on Iran.""",0,liar,0.107,0.687,0.206,0.3182,19,105,0,0,0,0,0,0,0
+4,3,Health care reform legislation is likely to mandate free sex change surgeries.,1,liar,0.0,0.606,0.394,0.7579,12,78,0,0,0,0,0,0,0
+5,4,The Chicago Bears have had more starting quarterbacks in the last 10 years than the total number of tenured (UW) faculty fired during the last two decades.,0,liar,0.12,0.836,0.043,-0.5106,27,155,0,0,1,0,0,0,0
+6,5,Jim Dunnam has not lived in the district he represents for years now.,1,liar,0.0,1.0,0.0,0.0,13,69,0,0,0,0,1,0,0
+7,6,"I'm the only person on this stage who has worked actively just last year passing, along with Russ Feingold, some of the toughest ethics reform since Watergate.",0,liar,0.045,0.874,0.08,0.25,27,159,0,0,0,0,0,0,0
+8,7,"However, it took $19.5 million in Oregon Lottery funds for the Port of Newport to eventually land the new NOAA Marine Operations Center-Pacific.",0,liar,0.0,1.0,0.0,0.0,23,144,0,0,1,0,0,0,0
+9,8,Says GOP primary opponents Glenn Grothman and Joe Leibham cast a compromise vote that cost $788 million in higher electricity costs.,0,liar,0.0,1.0,0.0,0.0,21,132,0,0,1,0,0,0,0
+10,9,"For the first time in history, the share of the national popular vote margin is smaller than the Latino vote margin.",0,liar,0.0,0.792,0.208,0.6124,21,116,0,0,0,0,0,0,0
+11,10,"Since 2000, nearly 12 million Americans have slipped out of the middle class and into poverty.",0,liar,0.18,0.82,0.0,-0.5106,16,94,0,0,0,0,0,0,0
+12,11,"When Mitt Romney was governor of Massachusetts, we didnt just slow the rate of growth of our government, we actually cut it.",1,liar,0.085,0.81,0.105,0.128,22,124,0,0,0,0,0,0,0
+13,12,Most of the (Affordable Care Act) has already in some sense been waived or otherwise suspended.,1,liar,0.153,0.69,0.158,0.0258,16,95,0,0,0,0,0,0,0
+14,13,"In this last election in November, ... 63 percent of the American people chose not to vote, ... 80 percent of young people, (and) 75 percent of low-income workers chose not to vote.",0,liar,0.0,1.0,0.0,0.0,33,181,0,0,0,0,0,0,0
+15,14,McCain opposed a requirement that the government buy American-made motorcycles. And he said all buy-American provisions were quote 'disgraceful.',0,liar,0.0,1.0,0.0,0.0,19,145,0,0,0,1,0,0,0
+16,15,"U.S. Rep. Ron Kind, D-Wis., and his fellow Democrats went on a spending spree and now their credit card is maxed out",1,liar,0.0,0.76,0.24,0.7184,22,116,0,0,1,0,1,0,0
+17,16,"Water rates in Manila, Philippines, were raised up to 845 percent when a subsidiary of the World Bank became a partial owner.",0,liar,0.0,1.0,0.0,0.0,22,125,0,0,0,0,0,0,0
+18,17,Women and men both are making less when you adjust for inflation than when John Kitzhaber was first elected governor.,1,liar,0.0,1.0,0.0,0.0,20,117,0,0,0,0,0,0,1
+19,18,The United States has the highest corporate tax rate in the free world.,0,liar,0.0,0.643,0.357,0.7269,13,71,0,0,0,0,0,0,0
+20,19,We just had the best year for the auto industry in America in history.,0,liar,0.0,0.756,0.244,0.6369,14,70,0,0,0,0,0,0,0
+21,20,"Says Scott Walker favors cutting up to 350,000 families and children off health care.",0,liar,0.085,0.621,0.294,0.5719,14,85,0,0,0,0,0,0,0

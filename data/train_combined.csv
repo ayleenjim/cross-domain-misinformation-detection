@@ -1,0 +1,22 @@
+train_combined
+combined_ID,ID,text,is_fake,source,vader_neg,vader_neu,vader_pos,vader_compound,word_count,char_count,exclamation_count,question_count,all_caps_count,certainty_count,urgency_count,attack_count,second_person_count
+2268,2267,Says Jacky Rosen has refused to tell us whether she supports Bernie Sanders or Hillary Clinton.,1,liar,0.118,0.749,0.134,0.0772,16,95,0,0,0,0,0,0,0
+8159,8158,The Congressional Budget Office has found that (the stimulus) bill will lead to a real 0.1 to 0.3 percent reduction in gross domestic product by 2019.,1,liar,0.114,0.886,0.0,-0.4767,26,150,0,0,0,0,0,0,0
+142,141,"The presidents health care proposals will cause most Americans to have their premiums increased, not decreased, and hundreds of millions of people lose their current insurance coverage.",1,liar,0.084,0.75,0.166,0.3818,27,185,0,0,0,0,0,0,0
+964,963,"Rhode Islands voter identification law was pushed by a black Democrat in the House, a black Democrat in the Senate. Thats a fact.",0,liar,0.0,1.0,0.0,0.0,23,129,0,0,0,0,0,0,0
+6728,6727,One of the reasons that Social Security is in so much trouble is that the only funding stream comes from people who get a wage. The people who get wages is declining dramatically.,1,liar,0.084,0.848,0.068,-0.1477,33,179,0,0,0,0,0,0,0
+1492,1491,Kilmartin has helped pass laws to create a witness protection program.,0,liar,0.0,0.811,0.189,0.2732,11,70,0,0,0,0,0,0,0
+864,863,"The Republicans still want to privatize (Social Security). In fact, their whole idea is to turn over the Social Security trust fund to Wall Street.",1,liar,0.0,0.759,0.241,0.7184,25,147,0,0,0,0,0,0,0
+10307,10306,"I think with the exception of the last year or maybe the last two years, we were at 100 percent when it came to contributing to the Providence pension fund.",0,liar,0.0,1.0,0.0,0.0,30,156,0,0,0,0,0,0,0
+3083,3082,Our last budget committed the highest level of need-based financial aid in state history.,0,liar,0.0,0.861,0.139,0.2732,14,89,0,0,0,0,0,0,0
+5245,5244,The costs for families (in the individual market) for the same type of coverage that they're currently receiving would go down 14 percent to 20 percent.,0,liar,0.0,1.0,0.0,0.0,26,152,0,0,0,0,0,0,0
+3776,3775,"Every month, another 50,000 U.S.-born Hispanics turn 18 and become eligible to vote.",0,liar,0.0,1.0,0.0,0.0,13,84,0,0,0,0,0,0,0
+3694,3693,"Says if Oregon had limited its budget growth to the rate of population growth plus the rate of inflation, the states all-funds budget would be about $27 billion today, not $60 billion.",0,liar,0.053,0.803,0.144,0.5106,32,184,0,0,0,1,0,0,0
+9800,9799,Says Mary Landrieu voted to fund benefits for illegal immigrants ahead of veterans.,1,liar,0.209,0.64,0.151,-0.25,13,83,0,0,0,0,0,0,0
+2524,2523,"In Oregon, students are skipping math class to learn about the Bible.",0,liar,0.0,1.0,0.0,0.0,12,69,0,0,0,0,0,0,0
+1537,1536,"This year, we have added an average of 200,000 jobs per month, a majority in the private sector, a stark contrast to the Bush Administration record of losing an average of nearly 750,000 jobs per month in its last three months.",0,liar,0.064,0.936,0.0,-0.3818,41,227,0,0,0,0,0,0,0
+353,352,Six people in Florida die as a result of (not expanding Medicaid) every day.,0,liar,0.245,0.755,0.0,-0.5994,14,76,0,0,0,0,0,0,0
+2965,2964,"NAFTA, signed by Bill Clinton, has been a disaster for Pennsylvania.",1,liar,0.313,0.687,0.0,-0.6249,11,68,0,0,1,0,0,0,0
+6447,6446,"We have lost 600,000 jobs over the period of the last 10 years. Only Michigan and California have done worse.",0,liar,0.231,0.769,0.0,-0.6597,20,109,0,0,0,0,0,0,0
+6369,6368,"We work longer hours than any people in the industrialized world, including the Japanese.",1,liar,0.0,1.0,0.0,0.0,14,89,0,0,0,0,0,0,0
+10292,10291,College students who are NOT U.S. Citizens and who get the PELL Grant plan to return to their home countries after getting free gas cards and child care.,1,liar,0.0,0.735,0.265,0.8402,28,153,0,0,3,0,0,0,0
