@@ -38,8 +38,9 @@ Instead, it analyzes linguistic and rhetorical patterns associated with misinfor
         01_preprocessing.ipynb
         02_tfidf_baseline.ipynb
         03_sentiment_rhetorical.ipynb
-        04_fusion_pipeline.ipynb
-        05_visualizations.ipynb
+        04_bert_pipeline.ipynb
+        05_fusion_pipeline.ipynb
+        06_visualizations.ipynb
     requirements.txt
     run.sh
     README.md
@@ -59,14 +60,14 @@ Download the bert_combined folder separately and place it inside:
 
     models/bert_combined/
 
-The folder should contain files such as:
+The folder should contain the files:
 
     config.json
     model.safetensors
-    tokenizer.json
     tokenizer_config.json
-    special_tokens_map.json
-
+    tokenizer.json
+    training_args.bin
+    
 ### 3. Run the application
 
     ./run.sh
@@ -105,9 +106,9 @@ The fusion pipeline combines multiple feature types:
 
 Models were evaluated across multiple misinformation domains:
 
-* Political fact-check statements (LIAR)
-* COVID/health misinformation
-* Highly emotional and sensational headline-style content
+* LIAR - Political fact-check statements
+* COVID - Health misinformation
+* Sensational - Highly emotional and sensational headline-style content
 
 The project explored how:
 
