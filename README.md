@@ -31,19 +31,25 @@ Instead, it analyzes linguistic and rhetorical patterns associated with misinfor
     cross-domain-misinformation-detection/
     app/
         streamlit_app.py
+    data/
+        combined_full.csv
+        test_combined.csv
+        train_combined.csv
     models/
         combined_fusion_logreg.joblib
+        fusion_feature_cols.joblib
         bert_combined/   <-- downloaded separately
     notebooks/
         01_preprocessing.ipynb
         02_tfidf_baseline.ipynb
-        03_sentiment_rhetorical.ipynb
+        03_sent_rhet_pipeline.ipynb
         04_bert_pipeline.ipynb
         05_fusion_pipeline.ipynb
-        06_visualizations.ipynb
+        06_visuals.ipynb
     requirements.txt
     run.sh
     README.md
+    .gitignore
 
 ## Running the Application
 
